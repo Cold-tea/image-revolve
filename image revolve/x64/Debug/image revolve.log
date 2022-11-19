@@ -1,0 +1,12 @@
+﻿  main.cpp
+  The contents of <any> are available only with C++17 or later.
+  The contents of <charconv> are available only with C++17 or later.
+  The contents of <filesystem> are available only with C++17 or later.
+  The contents of <optional> are available only with C++17 or later.
+  The contents of <memory_resource> are available only with C++17 or later.
+  The contents of <string_view> are available only with C++17 or later.
+  The contents of <variant> are available only with C++17 or later.
+  The contents of <bit> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\desktop\image revolve\image revolve\main.cpp(36,11): warning C4475: “printf”: 不可在格式说明符中将长度修饰符“ll”与类型字段字符“f”一起使用
+  image revolve.vcxproj -> D:\desktop\image revolve\x64\Debug\image revolve.exe
